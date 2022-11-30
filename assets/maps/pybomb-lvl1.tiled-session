@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "lvl1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "lvl1.tmx": {
+            "scale": 0.904541015625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 526.7865047233469,
+                "y": 384.17273954116064
+            }
+        },
+        "roguelikeSheet_transparent.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.imagePath": "C:/Users/erik/Documents/research-git/PyBomb/assets/roguelike-pack-kenney/Spritesheet",
+    "map.height": 48,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 64,
+    "openFiles": [
+        "lvl1.tmx",
+        "roguelikeSheet_transparent.tsx"
+    ],
+    "project": "pybomb-lvl1.tiled-project",
+    "recentFiles": [
+        "roguelikeSheet_transparent.tsx",
+        "lvl1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 1,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
